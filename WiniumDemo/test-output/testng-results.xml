@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22077" started-at="2021-01-24T02:20:00Z" finished-at="2021-01-24T02:20:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22077" started-at="2021-01-24T02:20:00Z" finished-at="2021-01-24T02:20:22Z">
+      <class name="testcases.AdditionScenarios">
+        <test-method status="PASS" signature="configureURL()[pri:0, instance:testcases.AdditionScenarios@9629756]" name="configureURL" is-config="true" duration-ms="25" started-at="2021-01-24T07:50:00Z" finished-at="2021-01-24T07:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureURL -->
+        <test-method status="PASS" signature="addition_three_Numbers()[pri:0, instance:testcases.AdditionScenarios@9629756]" name="addition_three_Numbers" duration-ms="13590" started-at="2021-01-24T07:50:00Z" finished-at="2021-01-24T07:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition_three_Numbers -->
+        <test-method status="PASS" signature="closeCalculator()[pri:0, instance:testcases.AdditionScenarios@9629756]" name="closeCalculator" is-config="true" duration-ms="141" started-at="2021-01-24T07:50:14Z" finished-at="2021-01-24T07:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCalculator -->
+        <test-method status="PASS" signature="verifyAddition_Two_Numbers()[pri:0, instance:testcases.AdditionScenarios@9629756]" name="verifyAddition_Two_Numbers" duration-ms="8225" started-at="2021-01-24T07:50:14Z" finished-at="2021-01-24T07:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddition_Two_Numbers -->
+        <test-method status="PASS" signature="closeCalculator()[pri:0, instance:testcases.AdditionScenarios@9629756]" name="closeCalculator" is-config="true" duration-ms="52" started-at="2021-01-24T07:50:22Z" finished-at="2021-01-24T07:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCalculator -->
+      </class> <!-- testcases.AdditionScenarios -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
